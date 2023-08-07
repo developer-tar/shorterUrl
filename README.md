@@ -6,9 +6,9 @@ This project is a web application developed using Laravel, a powerful PHP framew
 
 
 
-To run this application locally, follow these steps:
+To run this application locally, follow these steps:                                                                                                                       
 Step 1:
-Clone the repository to your local machine:
+Clone the repository to your local machine:                                                                                                                         
 
 
 git clone https://github.com/developer-tar/shorterurl.git
