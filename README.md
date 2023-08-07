@@ -5,22 +5,19 @@ The purpose of this application is to allow users to convert their original URLs
 
 
 
-## To run this application locally, follow these steps:                                                                                                          Step 1:
-- Clone the repository to your local machine:                                                                                                                     - git clone https://github.com/developer-tar/shorterurl.git
+## To run this application locally, follow these steps:                                                                                                          Step 1(Clone the repository to your local machine):
+- git clone https://github.com/developer-tar/shorterurl.git
 
-## Step 2:
-- Install the project dependencies using Composer
+## Step 2(Install the project dependencies using Composer):
 - composer install
 ## Step 3:
 - Rename the  .env.example file  to .env
-## Step 4:
-- Generate an application key:
+## Step 4(Generate an application key):
 - php artisan key:generate
-## Step 5:
-- Migrate the database:
+## Step 5(Migrate the database):
 - php artisan migrate
-## step 6:
-- Serve the application:
+## Step 6(Serve the application):
 - php artisan serve
-## Access the application in your browser at http://localhost:8000.
+## Step 7(Access the application in your browser at)
+- http://localhost:8000.
 
