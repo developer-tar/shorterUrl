@@ -16,20 +16,19 @@ To run this application locally, follow these steps:
 Clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/developer-tar/shorterurl.git
 Change into the project directory:
 
 
-cd project-name
-Install the project dependencies using Composer:
-
-
+cd shorterurl
+Install the project dependencies using Composer: 
 composer install
+
 Create a copy of the .env.example file and rename it to .env:
 
 
 cp .env.example .env
-Generate an application key:
+Generate an application key:php artisan key:generate
 
 
 
@@ -39,8 +38,6 @@ Migrate the database:
 
 php artisan migrate
 Serve the application:
-
-
 php artisan serve
 Access the application in your browser at http://localhost:8000.
 
