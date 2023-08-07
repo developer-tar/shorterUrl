@@ -12,7 +12,7 @@ The purpose of this application is to allow users to convert their original URLs
 - Install the project dependencies using Composer: 
 - composer install
 ## Step 3:
-- Rename the  .env.example file  to .env:
+- Rename the  .env.example file  to .env
 ## Step 4:
 - Generate an application key:
 - php artisan key:generate
