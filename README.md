@@ -5,7 +5,9 @@ The purpose of this application is to allow users to convert their original URLs
 
 
 
-## To run this application locally, follow these steps:                                                                                                          ## Step 1(Clone the repository to your local machine):
+## To run this application locally, follow these steps:
+
+## Step 1(Clone the repository to your local machine):
 - git clone https://github.com/developer-tar/shorterurl.git
 
 ## Step 2(Install the project dependencies using Composer):
