@@ -9,7 +9,7 @@ The purpose of this application is to allow users to convert their original URLs
 - Clone the repository to your local machine:                                                                                                                     - git clone https://github.com/developer-tar/shorterurl.git
 
 ## Step 2:
-- Install the project dependencies using Composer: 
+- Install the project dependencies using Composer
 - composer install
 ## Step 3:
 - Rename the  .env.example file  to .env
