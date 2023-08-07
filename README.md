@@ -11,7 +11,7 @@ To run this application locally, follow these steps:
 ##Clone the repository to your local machine:                                                                                                                         
 
 
-##git clone https://github.com/developer-tar/shorterurl.git
+--git clone https://github.com/developer-tar/shorterurl.git
 
 
 ##Change into the project directory:
