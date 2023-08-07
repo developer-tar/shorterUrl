@@ -1,7 +1,7 @@
 ## Project Name- Shortner url
 
 ## Description
-This project is a web application developed using Laravel, a powerful PHP framework for building modern web applications. The application provide a details of which user create the shortner url from original url and user has seen own shortner url with record of how much it seen now and admin purpose is to check which user make the shortner url and how much times hits to accessed own user url.
+The purpose of this application is to allow users to convert their original URLs into shortened URLs and view them. Additionally, users can also track the number of times their shortened URLs have been accessed. The administrator will have the capability to monitor users' activities, such as how many shortened URLs they have created and how many times they have accessed shortened URLs.
 
 
 
