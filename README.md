@@ -11,15 +11,15 @@ The purpose of this application is to allow users to convert their original URLs
 ## Step 2:
 - Install the project dependencies using Composer: 
 - composer install
-## Step3:
+## Step 3:
 - Rename the  .env.example file  to .env:
-## Step4:
+## Step 4:
 - Generate an application key:
 - php artisan key:generate
-## Step5:
+## Step 5:
 - Migrate the database:
 - php artisan migrate
-## step6:
+## step 6:
 - Serve the application:
 - php artisan serve
 ## Access the application in your browser at http://localhost:8000.
